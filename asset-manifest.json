@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/independence-day/static/css/main.b881ac76.css",
+    "main.js": "/independence-day/static/js/main.b879142c.js",
+    "static/js/787.9c10436f.chunk.js": "/independence-day/static/js/787.9c10436f.chunk.js",
+    "static/media/vid.mp4": "/independence-day/static/media/vid.9182b1fb538471e49c31.mp4",
+    "static/media/3.jpg": "/independence-day/static/media/3.f12d034d27ef172fa945.jpg",
+    "static/media/a1.gif": "/independence-day/static/media/a1.0de13a5c448b7a3fe16d.gif",
+    "static/media/1.mp3": "/independence-day/static/media/1.1e143b8609606e0a0a74.mp3",
+    "static/media/5.jpg": "/independence-day/static/media/5.9afc21daba9df9fcaa4f.jpg",
+    "static/media/6.jpg": "/independence-day/static/media/6.e7e26dc0365a4398fe1d.jpg",
+    "static/media/4.jpg": "/independence-day/static/media/4.6d74e9310426441e7ba8.jpg",
+    "static/media/1.jpg": "/independence-day/static/media/1.2c40294d8766ec0d1df9.jpg",
+    "static/media/2.jpg": "/independence-day/static/media/2.91026996b9a01c59b99d.jpg",
+    "index.html": "/independence-day/index.html",
+    "main.b881ac76.css.map": "/independence-day/static/css/main.b881ac76.css.map",
+    "main.b879142c.js.map": "/independence-day/static/js/main.b879142c.js.map",
+    "787.9c10436f.chunk.js.map": "/independence-day/static/js/787.9c10436f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b881ac76.css",
+    "static/js/main.b879142c.js"
+  ]
+}
